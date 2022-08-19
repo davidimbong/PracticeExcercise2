@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafed3b4-5d42-4ffa-9e65-4d54eae20897" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -54,11 +53,19 @@
       <option name="project" value="LOCAL" />
       <updated>1660719519961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated to only accept up to 2 decimal places">
+      <created>1660870743251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660870743251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Be Positive first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Be Positive first commit" />
+    <MESSAGE value="Updated to only accept up to 2 decimal places" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to only accept up to 2 decimal places" />
   </component>
 </project>

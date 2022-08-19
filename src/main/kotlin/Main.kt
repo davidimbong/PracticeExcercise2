@@ -6,8 +6,8 @@ fun main(args: Array<String>) {
 
     println("Input 2 numbers: ")
 
-    var num1 = read.nextBigDecimal();
-    val num2 = read.nextBigDecimal();
+    var num1 = read.nextBigDecimal().setScale(2);
+    val num2 = read.nextBigDecimal().setScale(2);
 
     while(true){
         num1 = num1-num2
