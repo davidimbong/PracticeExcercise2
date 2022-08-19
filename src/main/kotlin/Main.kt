@@ -6,13 +6,13 @@ fun main(args: Array<String>) {
 
     println("Input 2 numbers: ")
 
-    var num1 = read.nextDouble();
-    val num2 = read.nextDouble();
+    var num1 = read.nextBigDecimal();
+    val num2 = read.nextBigDecimal();
 
     while(true){
         num1 = num1-num2
 
-        if(num1 < 0 )
+        if(num1.compareTo(num2-num2) < 0 )
             break
 
         println(num1)
